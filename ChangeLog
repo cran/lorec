@@ -1,3 +1,7 @@
+2014-02-20  Xi (Rossi) LUO  <xi.rossi.luo@gmail.com>
+
+	* Fix Makevar warning
+
 2011-11-07  Xi (Rossi) LUO  <xi.rossi.luo@gmail.com>
 
 	* First CRAN release: Furnish manual and reference
